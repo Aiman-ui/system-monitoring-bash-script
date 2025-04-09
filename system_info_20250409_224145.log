@@ -1,0 +1,22 @@
+
+System Information Report
+==========================
+1. My Name:          Aiman Zafar
+2. System Name:      HP
+3. CPU Info:         Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz
+                     Total CPUs: 8
+4. Memory:           7785.39 MB
+5. OS:               Linux Mint 22 (Wilma)
+6. Storage:          28G
+7. Uptime:           up 50 minutes
+8. Logged-in Users:  1
+9. Disk Usage:       6.5G free
+10. Network:         127.0.0.1
+11. Top Processes:
+    PID COMMAND         %CPU
+   5725 ps               100
+   2220 firefox-bin     23.4
+   2890 Isolated Web Co  8.9
+   1892 cinnamon         5.5
+   2406 Isolated Web Co  5.0
+
